@@ -24,4 +24,4 @@ form.addEventListener('submit', function (e) {
             results.innerHTML = `Overweight = ${bmi}`;
         }
     }
-});
+}); 
